@@ -1,0 +1,53 @@
+nav ul {
+  display: flex;
+  justify-content: right;
+  gap: 5rem;
+  color: bisque;
+  list-style-type: none;
+}
+a {
+  color: bisque;
+}
+
+p {
+  text-align: left;
+  color: whitesmoke;
+}
+
+h2,
+h1,
+h3 {
+  text-align: left;
+  color: whitesmoke;
+  text-decoration: underline;
+}
+
+body {
+  background-color: black;
+}
+li {
+  color: beige;
+}
+* {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+td,
+th {
+  color: beige;
+}
+.pins {
+  display: flex;
+  align-items: flex-start;
+}
+.me {
+  display: flex;
+  align-items: flex-start;
+}
+#me {
+  text-align: left;
+}
+
+table {
+  width: 50%;
+}
